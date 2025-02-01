@@ -1,17 +1,17 @@
 # 🏥 Hospital Emergency Room Analysis Dashboard
 
-## 📌 Project Overview  
+##  Project Overview  
 The **Hospital Emergency Room (ER) Analysis Dashboard** is built in **Power BI** to provide **real-time insights** into **ER performance metrics**. It enables stakeholders to **monitor patient flow, wait times, referrals, and satisfaction scores** to optimize emergency room operations and improve patient care.
 
 This project demonstrates my expertise in:  
-✔ **Data Analysis & Business Intelligence (BI)**  
-✔ **Data Modeling & SQL for ETL**  
-✔ **Power BI Dashboard Development**  
-✔ **Healthcare Data Analytics & Performance Monitoring**  
+ **Data Analysis & Business Intelligence (BI)**  
+ **Data Modeling & SQL for ETL**  
+ **Power BI Dashboard Development**  
+ **Healthcare Data Analytics & Performance Monitoring**  
 
 ---
 
-## 🚀 Problem Statement  
+##  Problem Statement  
 Hospitals often struggle with **ER inefficiencies**, including:  
 -  **Long wait times** causing patient dissatisfaction.  
 -  **Lack of visibility** into peak hours, patient demographics, and referral trends.  
@@ -24,10 +24,10 @@ Without **real-time monitoring**, **decision-makers** cannot effectively allocat
 
 ## ✅ Solution Overview  
 The **Power BI Dashboard** enables:  
-📌 **Real-time tracking of ER performance metrics**.  
-📌 **Daily, Monthly, and Consolidated views** for **trend analysis and performance monitoring**.  
-📌 **Patient-level insights** to improve **operational decision-making**.  
-📌 **Interactive filters** for **date selection, department breakdown, and demographic analysis**.  
+ **Real-time tracking of ER performance metrics**.  
+ **Daily, Monthly, and Consolidated views** for **trend analysis and performance monitoring**.  
+ **Patient-level insights** to improve **operational decision-making**.  
+ **Interactive filters** for **date selection, department breakdown, and demographic analysis**.  
 
 ---
 
@@ -53,10 +53,10 @@ The **Power BI Dashboard** enables:
 
 The **data model** integrates **patient details, admissions, referrals, satisfaction scores, and wait times** into a **relational database**.
 
-### 📌 Data Model Screenshot  
+###  Data Model Screenshot  
 ![Data Model](https://github.com/muralikrishna-v/Healthcare-emergencyroom-analysis_powerBI/blob/main/hospital_eranalysis_datamodelling.png)  
 
-📌 **Data Sources**:  
+ **Data Sources**:  
 - **Patient Admissions Data**  
 - **ER Wait Time Logs**  
 - **Referral & Department Allocation**  
@@ -82,7 +82,7 @@ This **Power BI dashboard** includes **four key analytical views**:
 📌 **Dashboard Screenshot**:  
 ![Dashboard Overview](https://github.com/muralikrishna-v/Healthcare-emergencyroom-analysis_powerBI/blob/main/hospital_emergencyroom_analysis.png)  
 
-### 📌 Features & Insights  
+### Features & Insights  
 
 - **Patient Admission Status**: Tracks **admitted vs. non-admitted patients**.  
 - **Patient Age Distribution**: Groups patients into **10-year intervals** for demographic insights.  
@@ -92,7 +92,7 @@ This **Power BI dashboard** includes **four key analytical views**:
 - **Racial Demographics**: Displays **patient breakdown by race**.  
 - **Time Analysis**: Evaluates **patient volume by day and hour** to identify **busiest periods**.  
 
-📌 **Key Findings**  
+ **Key Findings**  
 - **Peak patient admissions occur between 10 AM – 4 PM**, leading to **longer wait times**.  
 - **Referrals to Cardiology and Orthopedics** are highest, indicating a **need for better triaging**.  
 - **Wait times tend to increase on weekends**, suggesting **a need for improved weekend staffing**.  
@@ -115,7 +115,7 @@ This **Power BI dashboard** includes **four key analytical views**:
 
 ---
 
-## 📌 Key Takeaways & Business Recommendations  
+##  Key Takeaways & Business Recommendations  
 
 ✅ **Optimize Staffing & Reduce Wait Times** – Increase staffing **during peak hours** to **minimize long wait times**.  
 ✅ **Enhance Patient Satisfaction** – Address days with **low satisfaction scores** by **adjusting operational efficiency**.  
