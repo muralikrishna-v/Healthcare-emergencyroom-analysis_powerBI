@@ -80,7 +80,7 @@ This **Power BI dashboard** includes **four key analytical views**:
 4️⃣ **Comprehensive Summary View** – Combines all findings to deliver **clear, actionable insights** for stakeholders.  
 
 📌 **Dashboard Screenshot**:  
-![Dashboard Overview](images/hospital_dashboard_overview.png)  
+![Dashboard Overview](https://github.com/muralikrishna-v/Healthcare-emergencyroom-analysis_powerBI/blob/main/hospital_emergencyroom_analysis.png)  
 
 ### 📌 Features & Insights  
 
