@@ -122,8 +122,7 @@ This **Power BI dashboard** includes **four key analytical views**:
 ✅ **Department Resource Allocation** – Allocate **more resources** to departments **with high referrals**.  
 ✅ **Predictive Analysis** – Implement **machine learning models** to **forecast hospital demand trends**.  
 
-📌 **Comprehensive Summary View Screenshot**:  
-![Summary View](images/hospital_summary_view.png)  
+  
 
 ---
 
