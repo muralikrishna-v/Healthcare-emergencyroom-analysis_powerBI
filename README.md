@@ -54,7 +54,7 @@ The **Power BI Dashboard** enables:
 The **data model** integrates **patient details, admissions, referrals, satisfaction scores, and wait times** into a **relational database**.
 
 ### 📌 Data Model Screenshot  
-![Data Model](images/hospital_data_model.png)  
+![Data Model](https://github.com/muralikrishna-v/Healthcare-emergencyroom-analysis_powerBI/blob/main/hospital_eranalysis_datamodelling.png)  
 
 📌 **Data Sources**:  
 - **Patient Admissions Data**  
